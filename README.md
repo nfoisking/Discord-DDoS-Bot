@@ -22,7 +22,7 @@
 ### Installation:
 Install Python:
 ```https://www.python.org/downloads/```
-```pip install discord
+pip install discord
 pip install pystyle
 pip install requests
-pip install json```
+pip install json
