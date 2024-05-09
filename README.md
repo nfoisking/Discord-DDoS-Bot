@@ -1,4 +1,3 @@
-<!-- Kylebot -->
 <p align="center"><img src="auth.png" alt="Kyle Network"></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2-green?style=for-the-badge">
