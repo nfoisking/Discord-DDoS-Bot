@@ -24,10 +24,6 @@ Install Python:
 ```
 https://www.python.org/downloads/
 ```
-pip install discord
-pip install pystyle
-pip install requests
-pip install json```
 
 <h1>About bot</h1>
 <p><li>Author: nfo</li></p>
