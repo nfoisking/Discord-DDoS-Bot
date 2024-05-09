@@ -1,0 +1,11 @@
+{
+    "DNS": "DNS flood optimized for GBP/s.",
+    "TCP": "TCP flood with HIGH PPS.",
+    "TCPKILL": "TCP flood optimized for bypass.",
+    "UDP": "UDP flood optimized for GBP/s & PPS.",
+    "DISCORD": "Special power to drop Discord Calls.",
+    "OVH": "TCP flood for OVH bypass.",
+    "UDPGAME": "UDP flood designed to cause packet-lose.",
+    "HTTPS": "HTTP/2 flood with HTTP DDoS Bypass.",
+    "TLS": "TLS flood with HTTP DDoS Bypass."
+}
