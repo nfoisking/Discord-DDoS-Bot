@@ -26,12 +26,3 @@ Install Python:
 pip install pystyle
 pip install requests
 pip install json```
-
-<h1>About bot</h1>
-<p><li>Author: Kyle Tran</li></p>
-<p><li>Version: 1.20/li></p>
-<p><li>Language: Python</li></p>
-<h1>Contact</h1>
-<p><li>Discord: @nfoisking</li></p>
-<h1>Thanks for using</h1>
-<p><li>Please press star and fork if you find it interesting</li></p>
