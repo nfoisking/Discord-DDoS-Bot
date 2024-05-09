@@ -1,7 +1,6 @@
 <p align="center"><img src="auth.png" alt="Kyle Network"></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/nfoisking/Discord-DDoS-Bot?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/nfoisking/Discord-DDoS-Bot?style=for-the-badge">
   <img src="https://img.shields.io/github/issues/nfoisking/Discord-DDoS-Bot?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/nfoisking/Discord-DDoS-Bot?color=teal&style=for-the-badge">
