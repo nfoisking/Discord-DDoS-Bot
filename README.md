@@ -19,13 +19,14 @@
 <b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here.!
 </i>
 
-### Installation
+### Installation:
 Install Python:
 ```https://www.python.org/downloads/```
 ```pip install discord
 pip install pystyle
 pip install requests
 pip install json```
+
 <h1>About bot</h1>
 <p><li>Author: Kyle Tran</li></p>
 <p><li>Version: 1.20/li></p>
