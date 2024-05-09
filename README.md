@@ -1,4 +1,4 @@
-<p align="center"><img alt="Discord-DDoS-Bot"></p>
+<p align="center"></p>"Discord-DDoS-Bot"></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2-green?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/nfoisking/Discord-DDoS-Bot?style=for-the-badge">
@@ -13,7 +13,7 @@
 </p>
 
 <h3><p align="center">Disclaimer</p></h3>
-<i>Any actions and or activities related to <b>Kylebot</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The author will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
+<i>Any actions and or activities related to <b>Discord-DDoS-Bot</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The author will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
 <b>This toolkit contains materials that can be potentially damaging or dangerous for internet</b>. Refer to the laws in your province/country before accessing, using,or in any other way utilizing this in a wrong way.
 
