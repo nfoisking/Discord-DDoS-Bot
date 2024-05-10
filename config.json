@@ -1,4 +1,4 @@
 {
-    "token": "",
-    "prefix": "!"
+    "token": "YOUR_DISCORD_TOKEN",
+    "prefix": "YOUR_PREFIX"
 }
